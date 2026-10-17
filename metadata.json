@@ -1,0 +1,6 @@
+{
+  "name": "RiskLens AI",
+  "description": "Explainable Corporate Debt Risk Assessment Web App providing multi-factor financial ratio scoring, scenario stress-testing, and credit committee reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
